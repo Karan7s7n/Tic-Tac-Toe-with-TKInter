@@ -41,18 +41,13 @@ This is a **Tic-Tac-Toe** game built using **Python and Tkinter** (Python's buil
 - **Color Highlighting:** The winning combination is highlighted.  
 
 📌 **Restart Mechanism:**  
-- Resets the board while keeping player ‘X’ as the starting player.  
+- Resets the board while keeping player ‘X’ as the starting player.
 
----
+📌 **IMAGES:**  
+<img width="473" height="511" alt="ttt1" src="https://github.com/user-attachments/assets/53b3bacf-c009-4f3f-a6f6-789c09b99ca2" />
+<img width="471" height="508" alt="ttt2" src="https://github.com/user-attachments/assets/89c07326-551a-4bdb-83f0-a766de1ab604" />
+<img width="473" height="508" alt="ttt3" src="https://github.com/user-attachments/assets/b21e1eaa-7ee1-4491-8f76-7a16d1c41ba8" />
+<img width="481" height="513" alt="ttt4" src="https://github.com/user-attachments/assets/a72ac543-650b-45d2-b0ae-33895b75456e" />
 
-## **Future Improvements (Ideas for Contributions)**
-🚀 **Enhancements:**  
-✅ Add **AI Mode** (Single-player with computer opponent).  
-✅ Implement a **score tracker** to keep track of wins/losses.  
-✅ Improve the UI with better styling and animations.  
-✅ Add **a difficulty setting** (Easy, Medium, Hard).  
 
----
 
-## **Contributing**  
-Feel free to **fork the repo**, suggest improvements, or fix bugs. PRs are welcome! 🤝  
