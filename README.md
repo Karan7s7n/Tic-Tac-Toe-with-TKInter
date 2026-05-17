@@ -43,6 +43,17 @@ This is a **Tic-Tac-Toe** game built using **Python and Tkinter** (Python's buil
 📌 **Restart Mechanism:**  
 - Resets the board while keeping player ‘X’ as the starting player.
 
+* 👨‍💻 Developer
+
+Karan Singh Negi
+Frontend Developer | React | TypeScript | Java | Flutter | Python
+
+GitHub: https://github.com/Karan7s7n
+
+Portfolio: 
+
+LinkedIn: www.linkedin.com/in/karan-singh-negi-0098532b5
+
 📌 **IMAGES:**  
 <img width="473" height="511" alt="ttt1" src="https://github.com/user-attachments/assets/53b3bacf-c009-4f3f-a6f6-789c09b99ca2" />
 <img width="471" height="508" alt="ttt2" src="https://github.com/user-attachments/assets/89c07326-551a-4bdb-83f0-a766de1ab604" />
